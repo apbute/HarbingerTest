@@ -1,0 +1,6 @@
+@HarbingerTest_HostAddress = http://localhost:5163
+
+GET {{HarbingerTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
